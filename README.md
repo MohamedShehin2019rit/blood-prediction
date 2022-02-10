@@ -1,10 +1,8 @@
 # blood-prediction
 
-# AZUREGALLERYLINK:
+# AZUREGALLERYLINK: https://gallery.cortanaintelligence.com/Experiment/Blood-Donation-Prediction-3         
                   
-                  https://gallery.azure.ai/Experiment/Blood-Donation-Prediction-3:
-                  
- # BLOOD DONAR PREDICTION 
+                                                                                                                                                                                 # BLOOD DONATION PREDICTION:
                   
                   blood donar prediction is a machine learning model uses liner regression on predicting the blood donation
                  
