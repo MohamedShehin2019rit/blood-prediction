@@ -20,6 +20,10 @@
 
 ![Screenshot (2)](https://user-images.githubusercontent.com/89602631/153361208-9d77ecda-a796-4f15-9323-a18c98b18997.png)
 
+# BLOOD DONATION DATA:
+
+![Screenshot (5)](https://user-images.githubusercontent.com/89602631/153369593-01c42bc2-bca1-49fc-b6ad-ac23007e47f3.png)
+
 # EVALUTATION MODEL:
 
 ![Screenshot (3)](https://user-images.githubusercontent.com/89602631/153362729-73d80d07-c4c8-4309-9353-24322274053f.png)
